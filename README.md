@@ -1,2 +1,3 @@
-# past-events
-Here you can find all our past events resources 
+# Past Events
+
+Here you can find all our past events and resources.
