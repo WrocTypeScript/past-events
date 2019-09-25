@@ -9,3 +9,5 @@ Here you can find all our past events and resources.
 - [Wrocław TypeScript #5: We Are Not Compatible](2019-05-29.md)
 - [Wrocław TypeScript #6: The Good, the Bad and the Ugly](2019-06-26.md)
 - [Wrocław TypeScript #7: Lightning Types](2019-09-25.md)
+
+You can also check out our [past events on Meetup](https://www.meetup.com/WrocTypeScript/events/past/).
