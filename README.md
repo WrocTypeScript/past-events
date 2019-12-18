@@ -11,5 +11,6 @@ Here you can find all our past events and resources.
 - [Wrocław TypeScript #7: Lightning Types](2019-09-25.md)
 - [Wrocław TypeScript #8: The One with Everything](2019-10-30.md)
 - [Wrocław TypeScript #9: Always Bet on TypeScript](2019-11-27.md)
+- [Wrocław TypeScript #10: Christmas Is Coming](2019-12-18.md)
 
 You can also check out our [past events on Meetup](https://www.meetup.com/WrocTypeScript/events/past/).
