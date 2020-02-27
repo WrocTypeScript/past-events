@@ -18,5 +18,6 @@ Here you can find all our past events and resources.
 **2020**
 
 - [Wrocław TypeScript #11: Anniversary Edition](2020-01-29.md)
+- [Wrocław TypeScript #12: Giving Back](2020-02-27.md)
 
 You can also check out our [past events on Meetup](https://www.meetup.com/WrocTypeScript/events/past/).
