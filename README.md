@@ -19,5 +19,6 @@ Here you can find all our past events and resources.
 
 - [Wrocław TypeScript #11: Anniversary Edition](2020-01-29.md)
 - [Wrocław TypeScript #12: Giving Back](2020-02-26.md)
+- [Wrocław TypeScript #13: The State of State Management](2020-03-25.md)
 
 You can also check out our [past events on Meetup](https://www.meetup.com/WrocTypeScript/events/past/).
