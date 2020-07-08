@@ -4,6 +4,9 @@ Here you can find all our past events and resources.
 
 **2020**
 
+> **Update**. Since the 2020 pandemic, our meetups take place online.  
+> You can find the recordings [on YouTube](https://www.youtube.com/channel/UC92_BcNwy2Y7u3yaM5N8SLg).
+
 - [Wrocław TypeScript #13: The State of State Management](2020-03-25.md)
 - [Wrocław TypeScript #12: Giving Back](2020-02-26.md)
 - [Wrocław TypeScript #11: Anniversary Edition](2020-01-29.md)
